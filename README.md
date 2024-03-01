@@ -34,3 +34,27 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Tech Stack
+
+- Node JS - 20.11.1
+
+- Next JS - 14.1.0
+
+- React JS - 18
+
+- Typescript - 5
+
+- Zod - 3.22.4
+
+- Drizzle ORM - 0.29.4
+
+- MySql2 - 3.9.1
+
+- React Hook Form - 7.50.1
+
+- Next Auth - 4.24.6
+
+- Tailwind - 3.3.0 
+
+- Radix/Shadcn UI
